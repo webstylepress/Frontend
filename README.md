@@ -1,14 +1,8 @@
-# Frontend
-HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and apps / DOM manipulation
+# Find Character or Word and Wrap in Div or Add Class
 
+### Tutorial
 
-### Smooth Scroll To Top
-
-https://github.com/webstylepress/Frontend/tree/smooth-scroll-to-top
-
-### Easy Sticky Header
-
-https://github.com/webstylepress/Frontend/tree/easy-sticky-header
+https://www.youtube.com/watch?v=WmV7SoGjHxk
 
 ### WebStylePress
 

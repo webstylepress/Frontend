@@ -1,0 +1,18 @@
+h3 {
+  color: #ff6600;
+  span {
+    color: #999;
+  }
+}
+
+ul {
+  font-size: 20px;
+  li {
+    &.highlight {
+      background-color: yellow;
+    }
+    &.no-highlight {
+      background-color: #eee;
+    }
+  }
+}
