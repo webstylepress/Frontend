@@ -1,6 +1,11 @@
 # Frontend
 HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and apps / DOM manipulation
 
+
+### Smooth Scroll To Top
+
+https://github.com/webstylepress/Frontend/tree/smooth-scroll-to-top
+
 ### WebStylePress
 
 Website: https://www.webstylepress.com<br />
