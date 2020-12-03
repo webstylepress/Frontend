@@ -1,14 +1,8 @@
-# Frontend
-HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and apps / DOM manipulation
+# Scroll to Bottom of Div or Textarea on Page Load
 
+### Tutorial
 
-### Smooth Scroll To Top
-
-https://github.com/webstylepress/Frontend/tree/smooth-scroll-to-top
-
-### Easy Sticky Header
-
-https://github.com/webstylepress/Frontend/tree/easy-sticky-header
+https://www.youtube.com/watch?v=D6VvuuU5CbM
 
 ### WebStylePress
 
