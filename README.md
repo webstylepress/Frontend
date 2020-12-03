@@ -1,7 +1,7 @@
 # Smooth Scroll To Top
-HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and apps / DOM manipulation
+HTML, CSS, jQuery Smooth Scroll to top
 
-###Tutorial
+### Tutorial
 
 https://www.youtube.com/watch?v=RwAdexMY0Kg
 
