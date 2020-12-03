@@ -1,10 +1,10 @@
-# Frontend
-HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and apps / DOM manipulation
+# Easy Sticky Header
+HTML / CSS / SCSS / jQuery
 
 
-### Smooth Scroll To Top
+### Tutorial
 
-https://github.com/webstylepress/Frontend/tree/smooth-scroll-to-top
+https://www.youtube.com/watch?v=f1tKsU2LUXU
 
 ### WebStylePress
 
