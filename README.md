@@ -6,6 +6,10 @@ HTML / CSS / SCSS / jQuery / Vanilla JavaScript / Simple frontend utilities and 
 
 https://github.com/webstylepress/Frontend/tree/smooth-scroll-to-top
 
+### Easy Sticky Header
+
+https://github.com/webstylepress/Frontend/tree/easy-sticky-header
+
 ### WebStylePress
 
 Website: https://www.webstylepress.com<br />
